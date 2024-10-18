@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to my GitHub profile! 👨🏻‍💻 :rocket:
+Hello! I'm Diego Valladolid Clemente, a Software Engineer passionate about development and cutting-edge technology solutions.
 
-<!--
-**DecoXFE/DecoXFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+# About me 🧑🏻‍💻
+I'm currently a 4th-year Computer Engineering student specializing in Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving complex problems through clean and efficient code.
+
+In my free time, I dive deep into topics such as software architecture, distributed systems, and code optimization.
+
+My favorite quote is: "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
+
+<br>
+
+# Contact me 📩
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Diego_Valladolid_Clemente-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/diego-valladolid-clemente)
+
