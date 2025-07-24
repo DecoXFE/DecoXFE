@@ -1,10 +1,10 @@
 # Welcome to my GitHub profile! 👨🏻‍💻 :rocket:
-Hello! I'm Diego Valladolid Clemente, a 4th-year Software Engineering student with a passion for development and innovative technology solutions.
+Hello! I'm Diego Valladolid Clemente, a Software Engineering with a passion for development and innovative technology solutions.
 
 <br>
 
 # About me 🧑🏻‍💻
-As a student specializing in Software Engineering, I have developed a strong foundation in object-oriented programming and agile development methodologies. I’ve gained practical experience working with languages like Java, Kotlin, and Python, and I'm skilled in using tools like Git for version control.
+As a Software Engineering, I have developed a strong foundation in object-oriented programming and agile development methodologies. I’ve gained practical experience working with languages like Java, Kotlin, and Python, and I'm skilled in using tools like Git for version control.
 
 I’m passionate about problem-solving, especially when it involves tackling complex challenges through careful analysis and optimization.
 <br>
